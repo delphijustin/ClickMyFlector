@@ -5,5 +5,5 @@ Winflector AutoStart app
   Just put a shortcut to ClickMyFlector.exe in startup along with winflector server.
 </p>
 <p>
-  All this app does is hunt for Winflector window and send the button click message tothe start button
+  All this app does is hunt for Winflector window and send the button click message to the start button
 </p>
