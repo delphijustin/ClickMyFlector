@@ -1,0 +1,2 @@
+# ClickMyFlector
+Winflector AutoStart app
