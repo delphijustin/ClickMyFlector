@@ -7,3 +7,7 @@ Winflector AutoStart app
 <p>
   All this app does is hunt for Winflector window and send the button click message to the start button
 </p>
+<p>
+  Also if you have Winflector installed in the default folder on the drive where windows is installed use
+  command-line parameter /S to have the tool launch winflector with it.
+</p>
