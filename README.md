@@ -11,3 +11,5 @@ Winflector AutoStart app
   Also if you have Winflector installed in the default folder on the drive where windows is installed use
   command-line parameter /S to have the tool launch winflector with it.
 </p>
+NOTE IF IT NEVER STARTS WINFLECTOR TRY STARTING WINFLECTOR OUTSIDE THE TOOL AND HAVE THE TOOL FIND
+IT THAT WAY
